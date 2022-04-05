@@ -1,0 +1,20 @@
+192.168.0.10
+sample.roboshop.internal
+192.168.0 [10:20]
+COUNTRYCODE-DCNO-APPTYPE-PROECTCODE-ENV-INDEX.DOMAIN
+2C-2C-web/db/app-5C-1C-2N.DOMAIN
+us-01-web-catlg-01-d-01.roboshop.internal
+#our scope in lab
+[DEV]
+catalogue-dev.roboshop.internal
+cart-dev.roboshop.internal
+
+[PRD]
+catalogue-prd.roboshop.internal
+cart-prd.roboshop.internal
+
+[CATALOGUE]
+catalogue-dev.roboshop.internal
+catalogue-prd.roboshop.internal
+
+

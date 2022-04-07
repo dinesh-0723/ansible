@@ -1,0 +1,8 @@
+- name: Play level variables
+  hosts: all
+  vars:
+    URL: playexample.com
+  tasks:
+    - name: print url
+      ansible.built.debug:
+        msg: the url is {{URL}}

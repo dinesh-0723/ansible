@@ -1,4 +1,4 @@
-- name:  sampleplay
+- name:  SamplePlay
   hosts:  all
   tasks:
      ansible.builtin.debug:

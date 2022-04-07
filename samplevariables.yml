@@ -3,6 +3,6 @@
   vars:
     URL: playexample.com
   tasks:
-    - name: print url
+    - name: print URL
       ansible.built.debug:
-        msg: the url is {{URL}}
+        msg: the URL is {{URL}}

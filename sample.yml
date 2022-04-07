@@ -1,5 +1,5 @@
--  name:  sampleplay
-   hosts:  all
-   tasks:
+- name:  sampleplay
+  hosts:  all
+  tasks:
      ansible.builtin.debug:
      msg:  Hello world
